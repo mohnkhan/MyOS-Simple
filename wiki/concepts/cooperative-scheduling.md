@@ -1,3 +1,5 @@
+[← Home](../Home.md)
+
 # Cooperative Scheduling
 
 *A static process table, per-task PCBs, and a round-robin ready queue — a faithful model of a scheduler whose register-level context switch is, honestly, not yet wired up.*

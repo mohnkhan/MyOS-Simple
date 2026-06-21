@@ -1,3 +1,5 @@
+[← Home](../Home.md)
+
 # The Boot Process
 
 *From the power button to your first line of C — how a bare-metal x86 machine wakes up and hands control to MyOS-Simple.*

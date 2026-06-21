@@ -1,3 +1,5 @@
+[← Home](../Home.md)
+
 # PS/2 Keyboard & the 8042 Controller
 
 *Reading keystrokes without the BIOS — busy-waiting on the 8042 controller through two I/O ports.*

@@ -1,3 +1,5 @@
+[← Home](../Home.md)
+
 # Glossary
 
 *Concise definitions of every term used across the MyOS-Simple wiki, each linked to its concept page.*

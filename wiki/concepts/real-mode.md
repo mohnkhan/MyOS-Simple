@@ -1,3 +1,5 @@
+[← Home](../Home.md)
+
 # Real Mode
 
 *The 16-bit world every x86 starts in — segments, offsets, and a 1 MiB ceiling that MyOS-Simple lives within until it switches to protected mode.*

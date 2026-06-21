@@ -1,3 +1,5 @@
+[← Home](../Home.md)
+
 # Scancodes & Translation
 
 *Turning a raw keyboard byte into a character: make codes, break codes, the `0x80` release bit, and two lookup tables.*

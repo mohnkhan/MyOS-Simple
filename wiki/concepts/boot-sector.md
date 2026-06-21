@@ -1,3 +1,5 @@
+[← Home](../Home.md)
+
 # The Boot Sector
 
 *Exactly 512 bytes, loaded to 0x7C00, ending in the magic word 0xAA55 — the smallest unit of code the firmware will ever run for you.*

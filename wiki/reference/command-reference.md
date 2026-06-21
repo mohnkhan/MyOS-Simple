@@ -1,3 +1,5 @@
+[← Home](../Home.md)
+
 # Command Reference
 
 *Every shell built-in across stages 3, 4, and 5 — syntax, behavior, and which stage ships it.*

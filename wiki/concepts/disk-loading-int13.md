@@ -1,3 +1,5 @@
+[← Home](../Home.md)
+
 # Disk Loading with INT 13h
 
 *How the 512-byte bootloader reaches past its own size limit and pulls a full kernel off disk — CHS addressing, sector counts, and the carry-flag error path.*

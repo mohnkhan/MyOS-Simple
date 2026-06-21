@@ -1,3 +1,5 @@
+[← Home](../Home.md)
+
 # Writing Your Own Stage
 
 *You have read all five stages — now extend the OS. Add a command, grow the kernel without crashing it, and learn exactly where to hook into boot and kernel.*

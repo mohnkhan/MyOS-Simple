@@ -1,3 +1,5 @@
+[← Home](../Home.md)
+
 # Linker Scripts
 
 *Telling the linker exactly where every byte goes — and why the kernel is a raw binary, not an ELF file.*

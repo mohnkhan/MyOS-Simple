@@ -1,3 +1,5 @@
+[← Home](../Home.md)
+
 # Protected Mode
 
 *The 32-bit operating mode the kernel runs in — flat memory, ring 0, and no BIOS safety net.*

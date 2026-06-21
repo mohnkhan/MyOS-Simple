@@ -1,3 +1,5 @@
+[← Home](../Home.md)
+
 # VGA Text Mode
 
 *How a freestanding kernel paints characters on screen by writing bytes straight into memory — no driver, no syscall, no BIOS.*

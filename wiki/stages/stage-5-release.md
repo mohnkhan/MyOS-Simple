@@ -1,3 +1,5 @@
+[← Home](../Home.md)
+
 # Stage 5 — The Stabilized Release
 
 *Stabilize and ship: trim the experiments, lock the command surface, and commit the artifact that actually boots.*

@@ -1,3 +1,5 @@
+[← Home](../Home.md)
+
 # Scancode Tables
 
 *The complete Set-1 scancode-to-ASCII translation tables and named scancodes, reproduced exactly from `keyboard.h`.*

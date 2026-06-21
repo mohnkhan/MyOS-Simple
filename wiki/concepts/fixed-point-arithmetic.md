@@ -1,3 +1,5 @@
+[← Home](../Home.md)
+
 # Fixed-Point Arithmetic
 
 *The Stage 4 calculator does decimals without an FPU, a floating-point library, or a single floating-point instruction — just integers scaled by 1000.*
