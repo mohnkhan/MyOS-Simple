@@ -49,6 +49,10 @@ cooperative tasks, and evaluates expressions, all without a standard library.
 Captured from QEMU. Each image is the unmodified output of the corresponding
 stage's `make run`.
 
+Stage 1 — monochrome boot sector (`make run`):
+
+![Stage 1: monochrome Hello World](docs/img/stage1-asm-mono.png)
+
 Stage 1 — color/keyboard boot sector (`make run-color`):
 
 ![Stage 1: Colorful Hello World OS](docs/img/stage1-asm-color.png)
