@@ -1,3 +1,5 @@
+[← Home](../Home.md)
+
 # Stage 3 — An Interactive Shell
 
 *The kernel learns to listen: a prompt, a line editor, a parser, and five commands — all without a libc.*

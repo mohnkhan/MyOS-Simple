@@ -1,3 +1,5 @@
+[← Home](../Home.md)
+
 # Debugging with GDB
 
 *Freeze the CPU at power-on, attach GDB over a socket, and single-step from the boot sector into your C kernel.*

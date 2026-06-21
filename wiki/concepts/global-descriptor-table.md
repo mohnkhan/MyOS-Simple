@@ -1,3 +1,5 @@
+[← Home](../Home.md)
+
 # The Global Descriptor Table (GDT)
 
 *Three eight-byte entries that tell the CPU how to interpret every memory access in protected mode.*

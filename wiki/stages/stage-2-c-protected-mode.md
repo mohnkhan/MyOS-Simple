@@ -1,3 +1,5 @@
+[← Home](../Home.md)
+
 # Stage 2 — A C Kernel in Protected Mode
 
 *Getting to C is the hard part, not the C itself.*

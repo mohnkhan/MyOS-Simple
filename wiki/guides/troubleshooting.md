@@ -1,3 +1,5 @@
+[← Home](../Home.md)
+
 # Troubleshooting
 
 *Every failure mode in MyOS-Simple, what it actually means, and how to fix it.*

@@ -1,3 +1,5 @@
+[← Home](../Home.md)
+
 # Stage 1 — The Assembly Boot Sector
 
 *The entire operating system is 512 bytes, including the two-byte signature the firmware looks for.*

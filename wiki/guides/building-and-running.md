@@ -1,3 +1,5 @@
+[← Home](../Home.md)
+
 # Building and Running
 
 *From a clean checkout to a booting OS in two commands — for any of the five stages.*

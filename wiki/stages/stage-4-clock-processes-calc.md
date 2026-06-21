@@ -1,3 +1,5 @@
+[← Home](../Home.md)
+
 # Stage 4 — Clock, Processes, and a Calculator
 
 *What does an operating system actually do? Tell the time, run tasks, compute — and make the shell pleasant to use.*
