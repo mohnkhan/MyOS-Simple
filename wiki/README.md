@@ -36,9 +36,19 @@ wiki/
 ## Using it as a GitHub Wiki
 
 The files use GitHub-Wiki conventions: `Home.md` is the landing page and `_Sidebar.md`
-renders as the navigation sidebar. To publish, push the contents of this folder to the
-repository's `*.wiki.git`. The links are relative, so the same files also browse cleanly
-right here in the main repository.
+renders as the navigation sidebar. The links here are relative (`../section/page.md`) so
+the folder browses cleanly in the repository.
+
+GitHub Wikis flatten every page to the top level and do not rewrite links inside
+subfolder pages, so those `../` links must be flattened to bare basenames before
+publishing. The [`scripts/sync-wiki.sh`](../scripts/sync-wiki.sh) helper does this
+automatically — it clones the wiki repo, copies this folder in, flattens the links, and
+pushes:
+
+```sh
+scripts/sync-wiki.sh                 # publish to the GitHub Wiki
+scripts/sync-wiki.sh --dry-run       # preview changes without pushing
+```
 
 
 ## Conventions
