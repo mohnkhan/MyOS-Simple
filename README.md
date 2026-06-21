@@ -10,6 +10,12 @@ process model, and a fixed-point calculator.
 Nothing here depends on an existing OS at runtime. Every image boots on the bare
 machine (or QEMU) with only the BIOS beneath it.
 
+> 📖 **Documentation:** A full companion wiki — concept deep-dives, per-stage
+> walkthroughs, a reference section (memory map, I/O ports, GDT bits, scancode
+> tables, command reference), and how-to guides — is on the
+> [**GitHub Wiki**](https://github.com/mohnkhan/MyOS-Simple/wiki), mirrored in-repo
+> under [`wiki/`](wiki/).
+
 
 ## Contents
 
